@@ -1,22 +1,17 @@
 {"header" : {
   "cloc_url"           : "github.com/AlDanial/cloc",
   "cloc_version"       : "1.98",
-  "elapsed_seconds"    : 5.00879120826721,
-  "n_files"            : 4094,
-  "n_lines"            : 394834,
-  "files_per_second"   : 817.362878540972,
-  "lines_per_second"   : 78828.2009735823,
+  "elapsed_seconds"    : 5.01441788673401,
+  "n_files"            : 3720,
+  "n_lines"            : 340314,
+  "files_per_second"   : 741.860787040011,
+  "lines_per_second"   : 67867.0999679393,
   "report_file"        : "../output/cloc-output.json"},
 "TypeScript" :{
-  "nFiles": 699,
-  "blank": 6624,
-  "comment": 17441,
-  "code": 87725},
-"C++" :{
-  "nFiles": 436,
-  "blank": 3070,
-  "comment": 1346,
-  "code": 56322},
+  "nFiles": 700,
+  "blank": 6650,
+  "comment": 17445,
+  "code": 88253},
 "JavaScript" :{
   "nFiles": 85,
   "blank": 1214,
@@ -28,20 +23,20 @@
   "comment": 1216,
   "code": 21595},
 "Python" :{
-  "nFiles": 232,
-  "blank": 3489,
-  "comment": 1481,
-  "code": 17384},
+  "nFiles": 227,
+  "blank": 3469,
+  "comment": 1463,
+  "code": 17140},
 "Asymptote" :{
   "nFiles": 733,
   "blank": 2973,
   "comment": 720,
   "code": 13611},
 "Vuejs Component" :{
-  "nFiles": 163,
-  "blank": 1059,
-  "comment": 239,
-  "code": 13304},
+  "nFiles": 165,
+  "blank": 1068,
+  "comment": 240,
+  "code": 13407},
 "HCL" :{
   "nFiles": 271,
   "blank": 2831,
@@ -62,6 +57,11 @@
   "blank": 263,
   "comment": 0,
   "code": 6945},
+"C++" :{
+  "nFiles": 159,
+  "blank": 1143,
+  "comment": 206,
+  "code": 6646},
 "Java" :{
   "nFiles": 103,
   "blank": 780,
@@ -72,31 +72,31 @@
   "blank": 777,
   "comment": 607,
   "code": 4301},
-"Bourne Shell" :{
-  "nFiles": 141,
-  "blank": 448,
-  "comment": 311,
-  "code": 3893},
 "Assembly" :{
   "nFiles": 10,
   "blank": 27,
   "comment": 34,
   "code": 3804},
 "C/C++ Header" :{
-  "nFiles": 39,
-  "blank": 530,
-  "comment": 508,
-  "code": 3480},
+  "nFiles": 36,
+  "blank": 523,
+  "comment": 451,
+  "code": 3352},
 "Swift" :{
   "nFiles": 48,
   "blank": 524,
   "comment": 349,
   "code": 3088},
 "C" :{
-  "nFiles": 34,
+  "nFiles": 32,
   "blank": 244,
   "comment": 94,
-  "code": 3065},
+  "code": 3038},
+"Bourne Shell" :{
+  "nFiles": 46,
+  "blank": 409,
+  "comment": 311,
+  "code": 1823},
 "GDScript" :{
   "nFiles": 16,
   "blank": 539,
@@ -127,6 +127,11 @@
   "blank": 84,
   "comment": 61,
   "code": 337},
+"SQL" :{
+  "nFiles": 26,
+  "blank": 48,
+  "comment": 47,
+  "code": 316},
 "DOS Batch" :{
   "nFiles": 3,
   "blank": 81,
@@ -142,11 +147,6 @@
   "blank": 103,
   "comment": 28,
   "code": 302},
-"SQL" :{
-  "nFiles": 21,
-  "blank": 21,
-  "comment": 5,
-  "code": 223},
 "Maven" :{
   "nFiles": 3,
   "blank": 14,
@@ -188,7 +188,7 @@
   "comment": 0,
   "code": 36},
 "SUM": {
-  "blank": 36026,
-  "comment": 34154,
-  "code": 324654,
-  "nFiles": 4094} }
+  "blank": 34095,
+  "comment": 32986,
+  "code": 273233,
+  "nFiles": 3720} }
