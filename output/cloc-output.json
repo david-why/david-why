@@ -1,17 +1,17 @@
 {"header" : {
   "cloc_url"           : "github.com/AlDanial/cloc",
   "cloc_version"       : "1.98",
-  "elapsed_seconds"    : 4.94999098777771,
-  "n_files"            : 3735,
-  "n_lines"            : 340977,
-  "files_per_second"   : 754.546828311868,
-  "lines_per_second"   : 68884.3678386334,
+  "elapsed_seconds"    : 4.95937395095825,
+  "n_files"            : 3810,
+  "n_lines"            : 338477,
+  "files_per_second"   : 768.242128477493,
+  "lines_per_second"   : 68249.9451235371,
   "report_file"        : "../output/cloc-output.json"},
 "TypeScript" :{
-  "nFiles": 714,
-  "blank": 6722,
-  "comment": 17447,
-  "code": 88836},
+  "nFiles": 719,
+  "blank": 6786,
+  "comment": 17453,
+  "code": 89296},
 "JavaScript" :{
   "nFiles": 85,
   "blank": 1214,
@@ -26,7 +26,7 @@
   "nFiles": 226,
   "blank": 3456,
   "comment": 1463,
-  "code": 17094},
+  "code": 17100},
 "Asymptote" :{
   "nFiles": 733,
   "blank": 2973,
@@ -47,11 +47,6 @@
   "blank": 3935,
   "comment": 3366,
   "code": 8159},
-"C#" :{
-  "nFiles": 125,
-  "blank": 1666,
-  "comment": 21,
-  "code": 7933},
 "Pascal" :{
   "nFiles": 2,
   "blank": 263,
@@ -67,6 +62,11 @@
   "blank": 780,
   "comment": 52,
   "code": 5760},
+"C#" :{
+  "nFiles": 162,
+  "blank": 1094,
+  "comment": 16,
+  "code": 4719},
 "Elixir" :{
   "nFiles": 62,
   "blank": 777,
@@ -92,41 +92,36 @@
   "blank": 244,
   "comment": 94,
   "code": 3038},
+"GDScript" :{
+  "nFiles": 35,
+  "blank": 710,
+  "comment": 87,
+  "code": 2271},
 "Bourne Shell" :{
   "nFiles": 46,
   "blank": 409,
   "comment": 311,
   "code": 1823},
-"GDScript" :{
-  "nFiles": 16,
-  "blank": 539,
-  "comment": 85,
-  "code": 1815},
-"Razor" :{
-  "nFiles": 10,
-  "blank": 0,
+"Godot Scene" :{
+  "nFiles": 17,
+  "blank": 163,
   "comment": 0,
-  "code": 451},
+  "code": 694},
 "Bourne Again Shell" :{
   "nFiles": 8,
   "blank": 102,
   "comment": 53,
   "code": 431},
-"Godot Scene" :{
-  "nFiles": 8,
-  "blank": 96,
-  "comment": 0,
-  "code": 425},
 "Svelte" :{
   "nFiles": 11,
   "blank": 70,
   "comment": 0,
   "code": 416},
 "SQL" :{
-  "nFiles": 28,
-  "blank": 65,
+  "nFiles": 30,
+  "blank": 68,
   "comment": 47,
-  "code": 364},
+  "code": 383},
 "Gradle" :{
   "nFiles": 3,
   "blank": 84,
@@ -157,11 +152,6 @@
   "blank": 82,
   "comment": 83,
   "code": 212},
-"MSBuild script" :{
-  "nFiles": 10,
-  "blank": 31,
-  "comment": 0,
-  "code": 208},
 "Ant" :{
   "nFiles": 1,
   "blank": 25,
@@ -172,6 +162,16 @@
   "blank": 47,
   "comment": 15,
   "code": 163},
+"Godot Resource" :{
+  "nFiles": 6,
+  "blank": 18,
+  "comment": 0,
+  "code": 156},
+"Razor" :{
+  "nFiles": 10,
+  "blank": 0,
+  "comment": 0,
+  "code": 153},
 "Lua" :{
   "nFiles": 2,
   "blank": 29,
@@ -182,13 +182,18 @@
   "blank": 23,
   "comment": 0,
   "code": 126},
+"MSBuild script" :{
+  "nFiles": 7,
+  "blank": 28,
+  "comment": 0,
+  "code": 103},
 "HTML EEx" :{
   "nFiles": 1,
   "blank": 0,
   "comment": 0,
   "code": 36},
 "SUM": {
-  "blank": 34171,
-  "comment": 32988,
-  "code": 273818,
-  "nFiles": 3735} }
+  "blank": 33919,
+  "comment": 32991,
+  "code": 271567,
+  "nFiles": 3810} }
