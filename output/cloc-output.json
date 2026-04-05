@@ -1,22 +1,22 @@
 {"header" : {
   "cloc_url"           : "github.com/AlDanial/cloc",
   "cloc_version"       : "1.98",
-  "elapsed_seconds"    : 4.93363308906555,
-  "n_files"            : 3821,
-  "n_lines"            : 349782,
-  "files_per_second"   : 774.479968619578,
-  "lines_per_second"   : 70897.4489358004,
+  "elapsed_seconds"    : 4.88476705551147,
+  "n_files"            : 3822,
+  "n_lines"            : 349871,
+  "files_per_second"   : 782.432397812633,
+  "lines_per_second"   : 71624.9098521988,
   "report_file"        : "../output/cloc-output.json"},
 "TypeScript" :{
   "nFiles": 652,
   "blank": 6319,
-  "comment": 17824,
-  "code": 85176},
+  "comment": 17842,
+  "code": 85243},
 "JavaScript" :{
-  "nFiles": 111,
+  "nFiles": 110,
   "blank": 2644,
   "comment": 7245,
-  "code": 52197},
+  "code": 52175},
 "Go" :{
   "nFiles": 247,
   "blank": 4187,
@@ -98,10 +98,10 @@
   "comment": 93,
   "code": 2619},
 "Bourne Shell" :{
-  "nFiles": 46,
-  "blank": 409,
+  "nFiles": 45,
+  "blank": 407,
   "comment": 311,
-  "code": 1823},
+  "code": 1819},
 "Godot Scene" :{
   "nFiles": 21,
   "blank": 204,
@@ -118,10 +118,10 @@
   "comment": 0,
   "code": 416},
 "SQL" :{
-  "nFiles": 29,
-  "blank": 68,
+  "nFiles": 32,
+  "blank": 78,
   "comment": 47,
-  "code": 379},
+  "code": 401},
 "Gradle" :{
   "nFiles": 3,
   "blank": 84,
@@ -193,7 +193,7 @@
   "comment": 0,
   "code": 36},
 "SUM": {
-  "blank": 35614,
-  "comment": 36147,
-  "code": 278021,
-  "nFiles": 3821} }
+  "blank": 35622,
+  "comment": 36165,
+  "code": 278084,
+  "nFiles": 3822} }
