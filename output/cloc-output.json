@@ -1,17 +1,17 @@
 {"header" : {
   "cloc_url"           : "github.com/AlDanial/cloc",
   "cloc_version"       : "1.98",
-  "elapsed_seconds"    : 4.88476705551147,
-  "n_files"            : 3822,
-  "n_lines"            : 349871,
-  "files_per_second"   : 782.432397812633,
-  "lines_per_second"   : 71624.9098521988,
+  "elapsed_seconds"    : 3.79151511192322,
+  "n_files"            : 3707,
+  "n_lines"            : 337564,
+  "files_per_second"   : 977.709409186464,
+  "lines_per_second"   : 89031.4267608901,
   "report_file"        : "../output/cloc-output.json"},
 "TypeScript" :{
-  "nFiles": 652,
-  "blank": 6319,
-  "comment": 17842,
-  "code": 85243},
+  "nFiles": 666,
+  "blank": 6438,
+  "comment": 17871,
+  "code": 85929},
 "JavaScript" :{
   "nFiles": 110,
   "blank": 2644,
@@ -27,21 +27,16 @@
   "blank": 3447,
   "comment": 1463,
   "code": 17056},
+"Vuejs Component" :{
+  "nFiles": 189,
+  "blank": 1501,
+  "comment": 305,
+  "code": 15634},
 "Asymptote" :{
   "nFiles": 733,
   "blank": 2973,
   "comment": 720,
   "code": 13611},
-"Vuejs Component" :{
-  "nFiles": 164,
-  "blank": 1063,
-  "comment": 240,
-  "code": 13379},
-"HCL" :{
-  "nFiles": 271,
-  "blank": 2827,
-  "comment": 1441,
-  "code": 13273},
 "TeX" :{
   "nFiles": 528,
   "blank": 3935,
@@ -92,46 +87,41 @@
   "blank": 244,
   "comment": 94,
   "code": 3038},
+"HCL" :{
+  "nFiles": 137,
+  "blank": 544,
+  "comment": 12,
+  "code": 3033},
 "GDScript" :{
   "nFiles": 45,
   "blank": 842,
   "comment": 93,
   "code": 2619},
-"Bourne Shell" :{
-  "nFiles": 45,
-  "blank": 407,
-  "comment": 311,
-  "code": 1819},
 "Godot Scene" :{
   "nFiles": 21,
   "blank": 204,
   "comment": 0,
   "code": 905},
-"Bourne Again Shell" :{
-  "nFiles": 8,
-  "blank": 102,
-  "comment": 53,
-  "code": 431},
+"Bourne Shell" :{
+  "nFiles": 25,
+  "blank": 187,
+  "comment": 264,
+  "code": 789},
+"SQL" :{
+  "nFiles": 35,
+  "blank": 84,
+  "comment": 49,
+  "code": 483},
 "Svelte" :{
   "nFiles": 11,
   "blank": 70,
   "comment": 0,
   "code": 416},
-"SQL" :{
-  "nFiles": 32,
-  "blank": 78,
-  "comment": 47,
-  "code": 401},
 "Gradle" :{
   "nFiles": 3,
   "blank": 84,
   "comment": 61,
   "code": 337},
-"make" :{
-  "nFiles": 10,
-  "blank": 113,
-  "comment": 28,
-  "code": 329},
 "DOS Batch" :{
   "nFiles": 3,
   "blank": 81,
@@ -147,6 +137,11 @@
   "blank": 14,
   "comment": 0,
   "code": 216},
+"make" :{
+  "nFiles": 9,
+  "blank": 84,
+  "comment": 12,
+  "code": 214},
 "PO File" :{
   "nFiles": 2,
   "blank": 82,
@@ -167,11 +162,6 @@
   "blank": 20,
   "comment": 0,
   "code": 178},
-"Dockerfile" :{
-  "nFiles": 8,
-  "blank": 51,
-  "comment": 15,
-  "code": 171},
 "INI" :{
   "nFiles": 16,
   "blank": 29,
@@ -187,13 +177,23 @@
   "blank": 29,
   "comment": 1,
   "code": 146},
+"Dockerfile" :{
+  "nFiles": 7,
+  "blank": 42,
+  "comment": 1,
+  "code": 134},
+"Bourne Again Shell" :{
+  "nFiles": 7,
+  "blank": 13,
+  "comment": 5,
+  "code": 48},
 "HTML EEx" :{
   "nFiles": 1,
   "blank": 0,
   "comment": 0,
   "code": 36},
 "SUM": {
-  "blank": 35622,
-  "comment": 36165,
-  "code": 278084,
-  "nFiles": 3822} }
+  "blank": 33555,
+  "comment": 34707,
+  "code": 269302,
+  "nFiles": 3707} }
