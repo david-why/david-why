@@ -1,22 +1,22 @@
 {"header" : {
   "cloc_url"           : "github.com/AlDanial/cloc",
   "cloc_version"       : "1.98",
-  "elapsed_seconds"    : 3.78020977973938,
-  "n_files"            : 3709,
-  "n_lines"            : 337741,
-  "files_per_second"   : 981.162479362643,
-  "lines_per_second"   : 89344.5125215471,
+  "elapsed_seconds"    : 3.72156691551208,
+  "n_files"            : 3697,
+  "n_lines"            : 336456,
+  "files_per_second"   : 993.398770982812,
+  "lines_per_second"   : 90407.0805760868,
   "report_file"        : "../output/cloc-output.json"},
 "TypeScript" :{
-  "nFiles": 666,
-  "blank": 6438,
-  "comment": 17871,
-  "code": 85937},
+  "nFiles": 665,
+  "blank": 6384,
+  "comment": 17856,
+  "code": 85176},
 "JavaScript" :{
-  "nFiles": 110,
-  "blank": 2644,
-  "comment": 7245,
-  "code": 52175},
+  "nFiles": 108,
+  "blank": 2639,
+  "comment": 7240,
+  "code": 52129},
 "Go" :{
   "nFiles": 247,
   "blank": 4187,
@@ -103,20 +103,15 @@
   "comment": 0,
   "code": 905},
 "Bourne Shell" :{
-  "nFiles": 25,
-  "blank": 187,
-  "comment": 264,
-  "code": 789},
+  "nFiles": 26,
+  "blank": 201,
+  "comment": 278,
+  "code": 839},
 "SQL" :{
   "nFiles": 35,
   "blank": 84,
   "comment": 49,
   "code": 483},
-"Svelte" :{
-  "nFiles": 11,
-  "blank": 70,
-  "comment": 0,
-  "code": 416},
 "Gradle" :{
   "nFiles": 3,
   "blank": 84,
@@ -163,10 +158,10 @@
   "comment": 0,
   "code": 178},
 "INI" :{
-  "nFiles": 16,
-  "blank": 29,
+  "nFiles": 17,
+  "blank": 31,
   "comment": 0,
-  "code": 152},
+  "code": 159},
 "MSBuild script" :{
   "nFiles": 9,
   "blank": 38,
@@ -193,7 +188,7 @@
   "comment": 0,
   "code": 36},
 "SUM": {
-  "blank": 33604,
-  "comment": 34710,
-  "code": 269427,
-  "nFiles": 3709} }
+  "blank": 33491,
+  "comment": 34704,
+  "code": 268261,
+  "nFiles": 3697} }
