@@ -1,42 +1,42 @@
 {"header" : {
   "cloc_url"           : "github.com/AlDanial/cloc",
   "cloc_version"       : "1.98",
-  "elapsed_seconds"    : 3.42061996459961,
-  "n_files"            : 4075,
-  "n_lines"            : 382653,
-  "files_per_second"   : 1191.30451268268,
-  "lines_per_second"   : 111866.563359894,
+  "elapsed_seconds"    : 4.1806640625,
+  "n_files"            : 4271,
+  "n_lines"            : 408100,
+  "files_per_second"   : 1021.60803550572,
+  "lines_per_second"   : 97616.0710114459,
   "report_file"        : "../output/cloc-output.json"},
 "TypeScript" :{
-  "nFiles": 848,
-  "blank": 9287,
-  "comment": 18752,
-  "code": 107081},
+  "nFiles": 991,
+  "blank": 10586,
+  "comment": 23584,
+  "code": 122718},
 "JavaScript" :{
-  "nFiles": 109,
-  "blank": 2644,
-  "comment": 7243,
-  "code": 52151},
+  "nFiles": 125,
+  "blank": 2684,
+  "comment": 7275,
+  "code": 52654},
 "Go" :{
   "nFiles": 247,
   "blank": 4187,
   "comment": 1216,
   "code": 21595},
 "Svelte" :{
-  "nFiles": 188,
-  "blank": 1547,
-  "comment": 66,
-  "code": 18681},
+  "nFiles": 190,
+  "blank": 1631,
+  "comment": 62,
+  "code": 19563},
 "Python" :{
-  "nFiles": 214,
-  "blank": 3332,
-  "comment": 1442,
-  "code": 16634},
+  "nFiles": 213,
+  "blank": 3362,
+  "comment": 1427,
+  "code": 16728},
 "Vuejs Component" :{
-  "nFiles": 191,
-  "blank": 1550,
-  "comment": 308,
-  "code": 15751},
+  "nFiles": 197,
+  "blank": 1792,
+  "comment": 346,
+  "code": 16653},
 "Asymptote" :{
   "nFiles": 733,
   "blank": 2973,
@@ -103,20 +103,20 @@
   "comment": 93,
   "code": 2619},
 "SQL" :{
-  "nFiles": 42,
-  "blank": 93,
-  "comment": 79,
-  "code": 960},
+  "nFiles": 54,
+  "blank": 141,
+  "comment": 139,
+  "code": 1084},
+"Bourne Shell" :{
+  "nFiles": 38,
+  "blank": 240,
+  "comment": 294,
+  "code": 970},
 "Godot Scene" :{
   "nFiles": 21,
   "blank": 204,
   "comment": 0,
   "code": 905},
-"Bourne Shell" :{
-  "nFiles": 28,
-  "blank": 209,
-  "comment": 283,
-  "code": 879},
 "Gradle" :{
   "nFiles": 3,
   "blank": 84,
@@ -132,6 +132,11 @@
   "blank": 38,
   "comment": 103,
   "code": 309},
+"Dockerfile" :{
+  "nFiles": 12,
+  "blank": 95,
+  "comment": 15,
+  "code": 218},
 "Maven" :{
   "nFiles": 3,
   "blank": 14,
@@ -147,11 +152,6 @@
   "blank": 82,
   "comment": 83,
   "code": 212},
-"Dockerfile" :{
-  "nFiles": 10,
-  "blank": 75,
-  "comment": 7,
-  "code": 189},
 "Razor" :{
   "nFiles": 11,
   "blank": 0,
@@ -161,6 +161,11 @@
   "nFiles": 1,
   "blank": 25,
   "comment": 17,
+  "code": 180},
+"Nix" :{
+  "nFiles": 5,
+  "blank": 26,
+  "comment": 23,
   "code": 180},
 "Godot Resource" :{
   "nFiles": 7,
@@ -182,6 +187,11 @@
   "blank": 29,
   "comment": 1,
   "code": 146},
+"PHP" :{
+  "nFiles": 1,
+  "blank": 41,
+  "comment": 61,
+  "code": 98},
 "Bourne Again Shell" :{
   "nFiles": 7,
   "blank": 13,
@@ -203,7 +213,7 @@
   "comment": 6,
   "code": 5},
 "SUM": {
-  "blank": 37889,
-  "comment": 35697,
-  "code": 309067,
-  "nFiles": 4075} }
+  "blank": 39750,
+  "comment": 40743,
+  "code": 327607,
+  "nFiles": 4271} }
