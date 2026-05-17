@@ -1,42 +1,42 @@
 {"header" : {
   "cloc_url"           : "github.com/AlDanial/cloc",
   "cloc_version"       : "1.98",
-  "elapsed_seconds"    : 4.1806640625,
-  "n_files"            : 4271,
-  "n_lines"            : 408100,
-  "files_per_second"   : 1021.60803550572,
-  "lines_per_second"   : 97616.0710114459,
+  "elapsed_seconds"    : 4.05523896217346,
+  "n_files"            : 4285,
+  "n_lines"            : 409356,
+  "files_per_second"   : 1056.65782953106,
+  "lines_per_second"   : 100944.976071299,
   "report_file"        : "../output/cloc-output.json"},
 "TypeScript" :{
-  "nFiles": 991,
-  "blank": 10586,
-  "comment": 23584,
-  "code": 122718},
+  "nFiles": 1002,
+  "blank": 10609,
+  "comment": 23452,
+  "code": 122999},
 "JavaScript" :{
   "nFiles": 125,
-  "blank": 2684,
+  "blank": 2679,
   "comment": 7275,
-  "code": 52654},
+  "code": 52633},
 "Go" :{
   "nFiles": 247,
   "blank": 4187,
   "comment": 1216,
   "code": 21595},
 "Svelte" :{
-  "nFiles": 190,
-  "blank": 1631,
+  "nFiles": 192,
+  "blank": 1683,
   "comment": 62,
-  "code": 19563},
+  "code": 20319},
+"Vuejs Component" :{
+  "nFiles": 198,
+  "blank": 1808,
+  "comment": 349,
+  "code": 16811},
 "Python" :{
   "nFiles": 213,
   "blank": 3362,
   "comment": 1427,
   "code": 16728},
-"Vuejs Component" :{
-  "nFiles": 197,
-  "blank": 1792,
-  "comment": 346,
-  "code": 16653},
 "Asymptote" :{
   "nFiles": 733,
   "blank": 2973,
@@ -69,9 +69,9 @@
   "code": 5760},
 "Elixir" :{
   "nFiles": 62,
-  "blank": 777,
-  "comment": 607,
-  "code": 4301},
+  "blank": 791,
+  "comment": 626,
+  "code": 4328},
 "Assembly" :{
   "nFiles": 10,
   "blank": 27,
@@ -103,10 +103,10 @@
   "comment": 93,
   "code": 2619},
 "SQL" :{
-  "nFiles": 54,
-  "blank": 141,
-  "comment": 139,
-  "code": 1084},
+  "nFiles": 55,
+  "blank": 142,
+  "comment": 142,
+  "code": 1162},
 "Bourne Shell" :{
   "nFiles": 38,
   "blank": 240,
@@ -132,11 +132,6 @@
   "blank": 38,
   "comment": 103,
   "code": 309},
-"Dockerfile" :{
-  "nFiles": 12,
-  "blank": 95,
-  "comment": 15,
-  "code": 218},
 "Maven" :{
   "nFiles": 3,
   "blank": 14,
@@ -152,6 +147,11 @@
   "blank": 82,
   "comment": 83,
   "code": 212},
+"Dockerfile" :{
+  "nFiles": 11,
+  "blank": 83,
+  "comment": 13,
+  "code": 204},
 "Razor" :{
   "nFiles": 11,
   "blank": 0,
@@ -197,23 +197,23 @@
   "blank": 13,
   "comment": 5,
   "code": 48},
+"HTML EEx" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 47},
 "Protocol Buffers" :{
   "nFiles": 1,
   "blank": 5,
   "comment": 2,
   "code": 37},
-"HTML EEx" :{
-  "nFiles": 1,
-  "blank": 0,
-  "comment": 0,
-  "code": 36},
 "diff" :{
   "nFiles": 1,
   "blank": 2,
   "comment": 6,
   "code": 5},
 "SUM": {
-  "blank": 39750,
-  "comment": 40743,
-  "code": 327607,
-  "nFiles": 4271} }
+  "blank": 39839,
+  "comment": 40634,
+  "code": 328883,
+  "nFiles": 4285} }
