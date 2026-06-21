@@ -1,27 +1,27 @@
 {"header" : {
   "cloc_url"           : "github.com/AlDanial/cloc",
   "cloc_version"       : "1.98",
-  "elapsed_seconds"    : 3.35190296173096,
-  "n_files"            : 4428,
-  "n_lines"            : 420882,
-  "files_per_second"   : 1321.04062992126,
-  "lines_per_second"   : 125565.090876811,
+  "elapsed_seconds"    : 3.62668299674988,
+  "n_files"            : 4533,
+  "n_lines"            : 422779,
+  "files_per_second"   : 1249.90246019912,
+  "lines_per_second"   : 116574.567002101,
   "report_file"        : "../output/cloc-output.json"},
 "TypeScript" :{
-  "nFiles": 1031,
-  "blank": 11173,
-  "comment": 23783,
-  "code": 125764},
+  "nFiles": 1033,
+  "blank": 11245,
+  "comment": 23787,
+  "code": 126355},
 "JavaScript" :{
   "nFiles": 120,
   "blank": 2753,
   "comment": 7466,
-  "code": 52866},
+  "code": 52862},
 "Svelte" :{
   "nFiles": 203,
-  "blank": 1892,
-  "comment": 68,
-  "code": 22526},
+  "blank": 1911,
+  "comment": 55,
+  "code": 22905},
 "Go" :{
   "nFiles": 247,
   "blank": 4187,
@@ -32,16 +32,16 @@
   "blank": 2257,
   "comment": 389,
   "code": 20545},
-"Python" :{
-  "nFiles": 215,
-  "blank": 3388,
-  "comment": 1467,
-  "code": 16805},
 "Asymptote" :{
-  "nFiles": 740,
-  "blank": 3025,
-  "comment": 740,
-  "code": 13755},
+  "nFiles": 837,
+  "blank": 3565,
+  "comment": 774,
+  "code": 15893},
+"Python" :{
+  "nFiles": 190,
+  "blank": 2696,
+  "comment": 1074,
+  "code": 14222},
 "TeX" :{
   "nFiles": 528,
   "blank": 3935,
@@ -67,21 +67,26 @@
   "blank": 780,
   "comment": 52,
   "code": 5760},
+"HCL" :{
+  "nFiles": 161,
+  "blank": 683,
+  "comment": 22,
+  "code": 3836},
 "Assembly" :{
   "nFiles": 10,
   "blank": 27,
   "comment": 34,
   "code": 3804},
-"HCL" :{
-  "nFiles": 150,
-  "blank": 628,
-  "comment": 21,
-  "code": 3541},
 "C/C++ Header" :{
   "nFiles": 36,
   "blank": 523,
   "comment": 451,
   "code": 3352},
+"GDScript" :{
+  "nFiles": 55,
+  "blank": 1074,
+  "comment": 165,
+  "code": 3325},
 "Swift" :{
   "nFiles": 48,
   "blank": 524,
@@ -94,29 +99,24 @@
   "code": 3038},
 "Elixir" :{
   "nFiles": 67,
-  "blank": 584,
-  "comment": 575,
-  "code": 2851},
-"GDScript" :{
-  "nFiles": 45,
-  "blank": 842,
-  "comment": 93,
-  "code": 2619},
+  "blank": 595,
+  "comment": 578,
+  "code": 2920},
 "SQL" :{
-  "nFiles": 68,
+  "nFiles": 69,
   "blank": 129,
   "comment": 91,
-  "code": 1489},
+  "code": 1490},
+"Godot Scene" :{
+  "nFiles": 29,
+  "blank": 265,
+  "comment": 0,
+  "code": 1176},
 "Bourne Shell" :{
   "nFiles": 34,
   "blank": 252,
   "comment": 403,
   "code": 1037},
-"Godot Scene" :{
-  "nFiles": 21,
-  "blank": 204,
-  "comment": 0,
-  "code": 905},
 "Gradle" :{
   "nFiles": 27,
   "blank": 174,
@@ -152,11 +152,6 @@
   "blank": 84,
   "comment": 5,
   "code": 194},
-"make" :{
-  "nFiles": 8,
-  "blank": 74,
-  "comment": 12,
-  "code": 187},
 "Ant" :{
   "nFiles": 1,
   "blank": 25,
@@ -167,6 +162,11 @@
   "blank": 20,
   "comment": 0,
   "code": 178},
+"make" :{
+  "nFiles": 7,
+  "blank": 69,
+  "comment": 12,
+  "code": 173},
 "Lua" :{
   "nFiles": 2,
   "blank": 29,
@@ -177,6 +177,11 @@
   "blank": 26,
   "comment": 0,
   "code": 139},
+"HTML EEx" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 101},
 "Bourne Again Shell" :{
   "nFiles": 8,
   "blank": 19,
@@ -187,18 +192,13 @@
   "blank": 6,
   "comment": 1,
   "code": 67},
-"HTML EEx" :{
-  "nFiles": 1,
-  "blank": 0,
-  "comment": 0,
-  "code": 54},
 "diff" :{
   "nFiles": 1,
   "blank": 2,
   "comment": 6,
   "code": 5},
 "SUM": {
-  "blank": 40811,
-  "comment": 41572,
-  "code": 338499,
-  "nFiles": 4428} }
+  "blank": 41104,
+  "comment": 41280,
+  "code": 340395,
+  "nFiles": 4533} }
