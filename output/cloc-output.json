@@ -1,27 +1,27 @@
 {"header" : {
   "cloc_url"           : "github.com/AlDanial/cloc",
   "cloc_version"       : "1.98",
-  "elapsed_seconds"    : 3.62668299674988,
-  "n_files"            : 4533,
-  "n_lines"            : 422779,
-  "files_per_second"   : 1249.90246019912,
-  "lines_per_second"   : 116574.567002101,
+  "elapsed_seconds"    : 4.17516303062439,
+  "n_files"            : 4818,
+  "n_lines"            : 442152,
+  "files_per_second"   : 1153.96691450381,
+  "lines_per_second"   : 105900.535322061,
   "report_file"        : "../output/cloc-output.json"},
 "TypeScript" :{
-  "nFiles": 1033,
-  "blank": 11245,
-  "comment": 23787,
-  "code": 126355},
+  "nFiles": 1238,
+  "blank": 12460,
+  "comment": 24989,
+  "code": 132361},
 "JavaScript" :{
-  "nFiles": 120,
-  "blank": 2753,
+  "nFiles": 122,
+  "blank": 2786,
   "comment": 7466,
-  "code": 52862},
+  "code": 53052},
 "Svelte" :{
   "nFiles": 203,
-  "blank": 1911,
+  "blank": 1926,
   "comment": 55,
-  "code": 22905},
+  "code": 23153},
 "Go" :{
   "nFiles": 247,
   "blank": 4187,
@@ -29,29 +29,29 @@
   "code": 21595},
 "Vuejs Component" :{
   "nFiles": 224,
-  "blank": 2257,
+  "blank": 2258,
   "comment": 389,
-  "code": 20545},
-"Asymptote" :{
-  "nFiles": 837,
-  "blank": 3565,
-  "comment": 774,
-  "code": 15893},
+  "code": 20570},
+"Kotlin" :{
+  "nFiles": 375,
+  "blank": 2375,
+  "comment": 172,
+  "code": 14957},
 "Python" :{
-  "nFiles": 190,
-  "blank": 2696,
-  "comment": 1074,
-  "code": 14222},
+  "nFiles": 189,
+  "blank": 2732,
+  "comment": 1131,
+  "code": 14471},
+"Asymptote" :{
+  "nFiles": 707,
+  "blank": 2985,
+  "comment": 677,
+  "code": 13515},
 "TeX" :{
-  "nFiles": 528,
+  "nFiles": 525,
   "blank": 3935,
   "comment": 3366,
-  "code": 8159},
-"Kotlin" :{
-  "nFiles": 239,
-  "blank": 1273,
-  "comment": 115,
-  "code": 7877},
+  "code": 7847},
 "Pascal" :{
   "nFiles": 2,
   "blank": 263,
@@ -68,25 +68,30 @@
   "comment": 52,
   "code": 5760},
 "HCL" :{
-  "nFiles": 161,
-  "blank": 683,
-  "comment": 22,
-  "code": 3836},
+  "nFiles": 190,
+  "blank": 985,
+  "comment": 29,
+  "code": 5471},
 "Assembly" :{
   "nFiles": 10,
   "blank": 27,
   "comment": 34,
   "code": 3804},
+"GDScript" :{
+  "nFiles": 62,
+  "blank": 1188,
+  "comment": 174,
+  "code": 3796},
 "C/C++ Header" :{
   "nFiles": 36,
   "blank": 523,
   "comment": 451,
   "code": 3352},
-"GDScript" :{
-  "nFiles": 55,
-  "blank": 1074,
-  "comment": 165,
-  "code": 3325},
+"Elixir" :{
+  "nFiles": 76,
+  "blank": 634,
+  "comment": 563,
+  "code": 3162},
 "Swift" :{
   "nFiles": 48,
   "blank": 524,
@@ -97,36 +102,36 @@
   "blank": 244,
   "comment": 94,
   "code": 3038},
-"Elixir" :{
-  "nFiles": 67,
-  "blank": 595,
-  "comment": 578,
-  "code": 2920},
-"SQL" :{
-  "nFiles": 69,
-  "blank": 129,
-  "comment": 91,
-  "code": 1490},
 "Godot Scene" :{
-  "nFiles": 29,
-  "blank": 265,
-  "comment": 0,
-  "code": 1176},
-"Bourne Shell" :{
   "nFiles": 34,
-  "blank": 252,
+  "blank": 337,
+  "comment": 0,
+  "code": 1533},
+"SQL" :{
+  "nFiles": 70,
+  "blank": 128,
+  "comment": 91,
+  "code": 1499},
+"Bourne Shell" :{
+  "nFiles": 35,
+  "blank": 293,
   "comment": 403,
-  "code": 1037},
+  "code": 1285},
+"Bourne Again Shell" :{
+  "nFiles": 28,
+  "blank": 208,
+  "comment": 7,
+  "code": 1025},
 "Gradle" :{
-  "nFiles": 27,
-  "blank": 174,
+  "nFiles": 28,
+  "blank": 208,
   "comment": 98,
-  "code": 799},
+  "code": 908},
 "Protocol Buffers" :{
-  "nFiles": 6,
-  "blank": 90,
-  "comment": 252,
-  "code": 387},
+  "nFiles": 7,
+  "blank": 132,
+  "comment": 399,
+  "code": 560},
 "DOS Batch" :{
   "nFiles": 4,
   "blank": 102,
@@ -137,6 +142,11 @@
   "blank": 38,
   "comment": 103,
   "code": 309},
+"Dockerfile" :{
+  "nFiles": 12,
+  "blank": 103,
+  "comment": 6,
+  "code": 230},
 "Maven" :{
   "nFiles": 3,
   "blank": 14,
@@ -147,11 +157,6 @@
   "blank": 82,
   "comment": 83,
   "code": 212},
-"Dockerfile" :{
-  "nFiles": 10,
-  "blank": 84,
-  "comment": 5,
-  "code": 194},
 "Ant" :{
   "nFiles": 1,
   "blank": 25,
@@ -182,11 +187,6 @@
   "blank": 0,
   "comment": 0,
   "code": 101},
-"Bourne Again Shell" :{
-  "nFiles": 8,
-  "blank": 19,
-  "comment": 9,
-  "code": 79},
 "Rust" :{
   "nFiles": 3,
   "blank": 6,
@@ -198,7 +198,7 @@
   "comment": 6,
   "code": 5},
 "SUM": {
-  "blank": 41104,
-  "comment": 41280,
-  "code": 340395,
-  "nFiles": 4533} }
+  "blank": 43777,
+  "comment": 42646,
+  "code": 355729,
+  "nFiles": 4818} }
